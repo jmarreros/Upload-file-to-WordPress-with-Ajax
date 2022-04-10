@@ -1,0 +1,19 @@
+#form-upload{
+    background-color:#eee;
+    padding:20px;
+}
+
+#form-upload > div{
+    margin:20px 0;
+}
+
+#form-upload input[type="submit"]{
+    background-color:black;
+    color:white;
+}
+
+#message{
+    display: none;
+    border: 1px solid grey;
+    padding:10px 20px;
+}
